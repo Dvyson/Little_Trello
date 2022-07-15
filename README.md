@@ -22,3 +22,9 @@
         Classe Trello: Metodo Read_Date() --> DateTimeException
         Classe Trello: Metodo Scan() --> IOException
         
+# Padrões De Projeto:
+        Foram identificados a necessidade de utilizar os seguintes padrões de projeto nas seguintes classes:
+        Extract Method: Classe Trello: Activity_Reports(), Replace_Task(), Removing_Professional.
+        Move Accumulation to Collecting Parameter: Classe Activity: ProfessionalPrint()
+        Move Accumulation to Collecting Parameter: Classe Technician: PrintTechnical()
+        Move Accumulation to Collecting Parameter: Classe Projects: Print_Activies()
