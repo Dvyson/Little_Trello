@@ -17,3 +17,8 @@
         Os conceitos de Interface estão sendo utilizados na Interface, que está sendo implementada nas classes Users e na classe Trello.
         
 # Exceptions:
+        Foram utilizados os conceitos de Exceptions nas seguintes funções:
+        Classe Trello: Metodo Read_Option() --> NumberFormatException
+        Classe Trello: Metodo Read_Date() --> DateTimeException
+        Classe Trello: Metodo Scan() --> IOException
+        
